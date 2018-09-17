@@ -1,197 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4183d928-8a79-4ac9-8e14-e9386f36fb66" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/codeM2018/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/codeM2018/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/codeM2018/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/EvalRPN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/FindMedianSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/LargestRectangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MergeKLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RemoveNthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ReverseKGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RotateRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SwapPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/BTInorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/BTLevelOrderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/BTLevelOrderTraversal2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/BTMaxPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/BTPostorderTravesal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/BTPreorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/BalancedBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/ConstructBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/CopyListWithRandomPointer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/DetectCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/LinkedListCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/LongestPanlindromicSubString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/MaxDepthOfBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/MedianOfTwoSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/MinDepthOfBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/PathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/PathSum2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/RandomListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/RecoverBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/ReorderList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/SortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/SortedListToBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/StringToInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/SumRootToLeaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/UniqueBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/UniqueBST2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/ValidateBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/ZigZagConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/reverseBetween.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/BTInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTInorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/BTLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTLevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/BTLevelOrderTraversal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTLevelOrderTraversal2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/BTMaxPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTMaxPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/BTPostorderTravesal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTPostorderTravesal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/BTPreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTPreorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/BalancedBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BalancedBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/ConstructBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ConstructBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/CopyListWithRandomPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/CopyListWithRandomPointer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/DeleteDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DeleteDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/DeleteDuplicates2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DeleteDuplicates2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/DetectCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DetectCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/LinkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/LongestPanlindromicSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/LongestPanlindromicSubString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/MaxDepthOfBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MaxDepthOfBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/MedianOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MedianOfTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/MinDepthOfBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MinDepthOfBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/PartitionList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/PathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/PathSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/PathSum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/RandomListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RandomListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/RecoverBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RecoverBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/ReorderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ReorderList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/SortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SortList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/SortedListToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SortedListToBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/StringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/StringToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/SumRootToLeaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SumRootToLeaf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/UniqueBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/UniqueBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/UniqueBST2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/UniqueBST2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/ValidateBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ValidateBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/ZigZagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ZigZagConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/reverseBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/reverseBetween.java" afterDir="false" />
-    </list>
+    <list default="true" id="6e2b145f-ae8a-4c5a-8261-68d3394f5369" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1581668576">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.30" value="3" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="java" value="139" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="139" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="46365" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="46365" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DeleteDuplicates.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DeleteDuplicates.java">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="540">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/codeM2018/Problem1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/codeM2018/Problem2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/codeM2018/Problem3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeTwoSortedLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MergeTwoSortedLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveNthFromEnd.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RemoveNthFromEnd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/AddTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMedianSortedArrays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/FindMedianSortedArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EvalRPN.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/EvalRPN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LargestRectangleArea.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/LargestRectangleArea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -205,86 +81,45 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>jj</find>
-    </findStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/me/fycus/LongestPanlindromicSubString.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/MedianOfTwoSortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/ZigZagConversion.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/ReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/StringToInteger.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/MinDepthOfBT.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/BTPostorderTravesal.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/BTPreorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/SumRootToLeaf.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/BTMaxPathSum.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/BTLevelOrderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/PathSum.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/PathSum2.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/BalancedBT.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/BTLevelOrderTraversal2.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/ConstructBT.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/MaxDepthOfBT.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/BTInorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/RecoverBST.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/UniqueBST.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/UniqueBST2.java" />
-        <option value="$PROJECT_DIR$/src/ValidateBST.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/ValidateBST.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/LIstNode.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/SortList.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/ReorderList.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/LinkedListCycle.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/DetectCycle.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/DeteCtycle.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/RandomListNode.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/CopyListWithRandomPointer.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/SortedListToBST.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/reverseBetween.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/PartitionList.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/DeleteDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/DeleteDuplicates2.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/MergeTwoSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/RotateRight.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/ReverseKGroup.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/SwapPairs.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/MergeKLists.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/codeM2018/Problem1.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/codeM2018/Problem2.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/codeM2018/Problem3.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RemoveNthFromEnd.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/AddTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/FindMedianSortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/EvalRPN.java" />
-        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/LargestRectangleArea.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/WordBreak.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/WordBreak2.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Candy.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/PalindromPartion2.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/PalindromPartition2.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DistinctSubsequences.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/InterleavingString.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Subsets2.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DecodeWays.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ScrambleString.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Subsets.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/EditDistance.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MinimumParhSum.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MinimumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/UniquePaths.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/UniquePaths2.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/GasStation.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+    <option name="x" value="500" />
+    <option name="y" value="26" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,25 +145,15 @@
               <item name="fycus" type="462c0819:PsiDirectoryNode" />
               <item name="nowcoder_leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/华夏银行/index.html" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -342,554 +167,425 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LargestRectangleArea">
-    <configuration name="LargestRectangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.LargestRectangleArea" />
-      <module name="Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="me.fycus.nowcoder_leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.DecodeWays" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="MergeKLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.MergeKLists" />
-      <module name="Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="me.fycus.nowcoder_leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.EditDistance" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.fycus.codeM2018.Problem1" />
-      <module name="Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="me.fycus.codeM2018.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="MinimumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.MinimumPathSum" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.fycus.codeM2018.Problem2" />
-      <module name="Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="me.fycus.codeM2018.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ScrambleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.ScrambleString" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.fycus.codeM2018.Problem3" />
-      <module name="Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="me.fycus.codeM2018.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.Test" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MergeKLists" />
-      <item itemvalue="Application.Problem1" />
-      <item itemvalue="Application.Problem2" />
-      <item itemvalue="Application.Problem3" />
-      <item itemvalue="Application.LargestRectangleArea" />
+      <item itemvalue="Application.DecodeWays" />
+      <item itemvalue="Application.ScrambleString" />
+      <item itemvalue="Application.EditDistance" />
+      <item itemvalue="Application.MinimumPathSum" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargestRectangleArea" />
-        <item itemvalue="Application.Problem3" />
-        <item itemvalue="Application.Problem2" />
-        <item itemvalue="Application.Problem1" />
-        <item itemvalue="Application.MergeKLists" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MinimumPathSum" />
+        <item itemvalue="Application.EditDistance" />
+        <item itemvalue="Application.ScrambleString" />
+        <item itemvalue="Application.DecodeWays" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="4183d928-8a79-4ac9-8e14-e9386f36fb66" name="Default" comment="" />
-      <created>1523692906263</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1523692906263</updated>
-    </task>
-    <servers />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32761088" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878934" weight="0.2421875" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.50121063" side_tool="true" visible="true" weight="0.2421875" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5010395" side_tool="true" weight="0.24236038" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32978722" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32962963" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.20116054" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.37814313" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32761088" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.5768374" visible="true" weight="0.21815519" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="4" sideWeight="0.42316258" side_tool="true" weight="0.21815519" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39914164" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="UI Designer" order="3" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="Message" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989605" weight="0.24236038" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5010395" side_tool="true" weight="0.24236038" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32962963" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32848233" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="31" />
-    </breakpoint-manager>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>steps++;
+            cur++;
+            if(cur &gt;= word2.length())
+                break;
+        }
+        int min = Integer.MAX_VALUE;
+        for(String s : queue){
+            min = Math.min(min, s.length());
+        }
+        steps += min;
+        return steps;
+    }</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if(j &lt; len1 &amp;&amp; !dp[j + 1] &amp;&amp; s3.charAt(i + j - 1) == s1.charAt(j)){
+                        dp[j + 1] = true;
+                    }
+                    if(i &lt; len2 &amp;&amp; s3.charAt(i + j - 1) != s2.charAt(i)){
+                        dp[j] = false;
+                    }
+                }
+            }
+        }
+        return dp[len1];</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ReverseInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/WordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="468">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/StringToInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/WordBreak2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="576">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ZigZagConversion.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Candy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        <state relative-caret-position="720">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MinDepthOfBT.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/PalindromPartition2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="468">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SumRootToLeaf.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="432">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DistinctSubsequences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="468">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/PathSum2.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/InterleavingString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="252">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/PathSum.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Subsets2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="-180">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MaxDepthOfBT.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DecodeWays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        <state relative-caret-position="540">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RecoverBST.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ScrambleString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        <state relative-caret-position="298">
+          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/UniqueBST.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Subsets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        <state relative-caret-position="514">
+          <caret line="37" column="57" lean-forward="true" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ValidateBST.java" />
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/UniqueBST2.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/EditDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="456">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ClimbingStairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="504">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ValidateBST.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MinimumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        <state relative-caret-position="384">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/UniquePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/UniquePaths2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/GasStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="129" column="18" lean-forward="true" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="405" column="10" lean-forward="true" selection-start-line="405" selection-start-column="10" selection-end-line="405" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="3161" column="47" lean-forward="true" selection-start-line="3161" selection-start-column="47" selection-end-line="3161" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="510" column="28" selection-start-line="510" selection-start-column="28" selection-end-line="510" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="638" column="18" selection-start-line="638" selection-start-column="18" selection-end-line="638" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="3590" selection-start-line="3590" selection-end-line="3590" />
+        <state relative-caret-position="311">
+          <caret line="3180" column="26" lean-forward="true" selection-start-line="3180" selection-start-column="26" selection-end-line="3180" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SortList.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="239">
+          <caret line="575" column="64" selection-start-line="575" selection-start-column="64" selection-end-line="575" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ReorderList.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/function/Function.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="419">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/LinkedListCycle.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/function/UnaryOperator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        <state relative-caret-position="612">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DetectCycle.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        <state relative-caret-position="599">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RandomListNode.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/AbstractSequentialList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="938">
+          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SortedListToBST.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/JSONListAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="216">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/reverseBetween.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/ListAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        <state relative-caret-position="36">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/PartitionList.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        <state relative-caret-position="36">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/华夏银行/index.html">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4313">
-          <caret line="242" column="8" selection-start-line="242" selection-start-column="8" selection-end-line="242" selection-end-column="8" />
+        <state relative-caret-position="488">
+          <caret line="84" column="26" lean-forward="true" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+          <folding>
+            <element signature="e#11209#11210#0" expanded="true" />
+            <element signature="e#11247#11248#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RotateRight.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="-481">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ReverseKGroup.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/Deque.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="730">
+          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SwapPairs.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        <state relative-caret-position="-4261">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DeleteDuplicates2.java">
+    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="267">
+          <caret line="107" column="22" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+            <element signature="e#11083#11084#0" expanded="true" />
+            <element signature="e#11121#11122#0" expanded="true" />
+            <element signature="e#15590#15591#0" expanded="true" />
+            <element signature="e#15635#15636#0" expanded="true" />
+            <element signature="e#31011#31012#0" expanded="true" />
+            <element signature="e#31043#31044#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MergeKLists.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problems.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BalancedBT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTLevelOrderTraversal2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTMaxPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTPostorderTravesal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTPreorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ConstructBT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/CopyListWithRandomPointer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/DeleteDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="540">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/codeM2018/Problem1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/codeM2018/Problem2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JAVA/jdk1.8.0_151/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/codeM2018/Problem3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RemoveNthFromEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/FindMedianSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/EvalRPN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/LargestRectangleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leetcode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
