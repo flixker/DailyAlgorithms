@@ -3,19 +3,20 @@ package me.fycus.nowcoder_leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Test<T extends A> {
+public class Test<T> {
 
-    static {
-        System.out.println("Test static");
-    }
-
+    public static int count = 0;
     public static void main(String[] args) throws InterruptedException {
-        Normal.Inner inner = new Normal().new Inner();
-        ArrayList<Integer> list;
+        for(int i = 0; i < 10000; i++)
+            new Thread(() -> count+=1).start();
+        Thread.sleep(1000);
+        System.out.print(count);
     }
 
     void f(Test<? extends A> t){}
 
+
+    public void g(Test<String> d){}
 }
 
 class Normal {
@@ -25,9 +26,7 @@ class Normal {
 
     private String s = " ";
     private int i = 0;
-
-    class Inner {
-        {
+class Inner { {
             System.out.println("Inner");
         }
 
@@ -44,8 +43,8 @@ interface B extends A {
 
 }
 
-
-abstract class Human implements A {
+class Animal{}
+class Human extends Animal implements A {
     public void no() {
         System.out.println("hello");
     }

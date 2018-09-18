@@ -11,18 +11,24 @@ package me.fycus.nowcoder_leetcode;
  * Note:
  * The solution is guaranteed to be unique.
  */
-public class GasStation {
+public class GasStation{
     public static int canCompletecircuit(int[] gas, int[] cost){
         for(int i = 0; i < gas.length; i++){
             int remaining = gas[i];
             int j = i;
-            while(j != i){
+            boolean off = false;
+            while(j != i || !off){
+                if(j == i)
+                    off = true;
                 if(cost[j] > remaining)
                     break;
-                remaining += gas[i] - cost[j];
-                j = j >= gas.length - 1 ? 0 : j + 1;
+                remaining -= cost[j];
+                j = (j + 1) % gas.length;
+                remaining += gas[j];
+                if(j == i)
+                    return i;
             }
         }
-        return 0;
+        return -1;
     }
 }
