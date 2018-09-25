@@ -1,11 +1,43 @@
 package me.fycus.nowcoder_leetcode;
 
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
 
-public class Test {
+import java.lang.reflect.InvocationHandler;
+import java.lang.reflect.Method;
+import java.lang.reflect.Proxy;
+import java.util.concurrent.atomic.AtomicMarkableReference;
+
+
+public class Test{
     public static void main(String[] args){
-        Lock lock = new ReentrantLock();
+        System.out.print( 0 % 24);
     }
 
 }
+
+class Qroxy implements InvocationHandler{
+    Object o;
+
+    Qroxy(Object o){
+        this.o = o;
+    }
+    @Override
+    public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+        System.out.println("before method invoked");
+        Object result = method.invoke(o,args);
+        System.out.println("after method invoked");
+        return result;
+    }
+}
+
+interface A{
+    default void test(){
+        System.out.print("Interface A");
+    }
+}
+
+interface B{
+   default void test(){
+        System.out.print("Interface B");
+    }
+}
+
