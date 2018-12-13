@@ -9,7 +9,8 @@ import java.util.concurrent.atomic.AtomicMarkableReference;
 
 public class Test{
     public static void main(String[] args){
-        System.out.print( 0 % 24);
+        double index = -0.5;
+        System.out.println((int)Math.floor(index));
     }
 
 }
