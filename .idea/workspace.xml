@@ -13,37 +13,37 @@
     <session id="-473041211">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.0" value="13" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="6" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="5" />
-          <entry key="java" value="131" />
+          <entry key="java" value="134" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="131" />
+          <entry key="JAVA" value="134" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="45609" />
+          <entry key="java" value="50151" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="45609" />
+          <entry key="JAVA" value="50151" />
         </counts>
       </usages-collector>
     </session>
@@ -51,13 +51,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Anagrams.java">
+        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/WildCardMatching.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="578">
+              <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -109,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/AddBinary.java" />
         <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/LengthOfLastWord.java" />
         <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Anagrams.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/WildCardMatching.java" />
       </list>
     </option>
   </component>
@@ -129,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -160,6 +157,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,16 +181,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TextJustification">
+  <component name="RunManager" selected="Application.WildCardMatching">
     <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.CombinationSum" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.NQueens" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -219,20 +210,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WildCardMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.WildCardMatching" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.NQueens" />
       <item itemvalue="Application.CombinationSum" />
       <item itemvalue="Application.PalindromeNumber" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.TextJustification" />
+      <item itemvalue="Application.WildCardMatching" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WildCardMatching" />
         <item itemvalue="Application.TextJustification" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.CombinationSum" />
-        <item itemvalue="Application.NQueens" />
       </list>
     </recent_temporary>
   </component>
@@ -242,8 +240,8 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4235977" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" sideWeight="0.5764023" side_tool="true" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.42166343" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.57833654" side_tool="true" visible="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -559,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="189" column="11" selection-start-line="189" selection-start-column="11" selection-end-line="189" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/AddBinary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -607,11 +598,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Anagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-322">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/WildCardMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
         </state>
       </provider>
     </entry>
