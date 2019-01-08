@@ -9,8 +9,8 @@ import java.util.concurrent.atomic.AtomicMarkableReference;
 
 public class Test{
     public static void main(String[] args){
-        int[] a = new int[6];
-        System.out.println(a[0]);
+        String s = "123";
+        System.out.println(s.substring(0, 5));
     }
 
 }
