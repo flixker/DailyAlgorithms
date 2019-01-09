@@ -2,102 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49200da9-3c72-4beb-9ff6-56fb2ca8c6cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SubstringWithConcatenationOfAllWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ImplementStrStr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/BasicAlgorithm/Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/codeM2018/Key.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/codeM2018/Problem1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/codeM2018/Problem2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/codeM2018/Problem3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/codeM2018/Problem4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/BTInorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/BTLevelOrderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/BTLevelOrderTraversal2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/BTMaxPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/BTPostorderTravesal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/BTPreorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/BalancedBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/Candy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ClimbingStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ConstructBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ContainerWithMostWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/CopyListWithRandomPointer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/DecodeWays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/DeleteDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/DeleteDuplicates2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/DetectCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/DistinctSubsequences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/DivideTwoIntegers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/EditDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/EvalRPN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/FindMedianSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/GasStation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/InterleavingString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/JumpGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/JumpGame2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/LargestRectangleArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/LinkedListCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/LongestPanlindromicSubString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MaxDepthOfBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MaxPointsOnALine$1Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MaxPointsOnALine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MaximalRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MaximumSubarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MedianOfTwoSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MergeKLists$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MergeKLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MergeTwoSortedLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MinDepthOfBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MinimumPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/MinimumWindowSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/PalindromPartition2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/PartitionList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/PascalsTriangle$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/PascalsTriangle$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/PascalsTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/PascalsTriangle2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/PathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/PathSum2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/Qroxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/RandomListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/RecoverBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/RemoveElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/RemoveNthFromEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ReorderList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ReverseKGroup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/RotateRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ScrambleString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/SortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/SortedListToBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/StringToInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/Subsets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/Subsets2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/SumRootToLeaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/SwapPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/UniqueBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/UniqueBST2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/UniquePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/UniquePaths2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ValidPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ValidateBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/WordBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/WordBreak2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/WordLadder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/WordLadder2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/WordLadder2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/WordLadder2$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/WordLadder2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/ZigZagConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/reverseBetween.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/me/fycus/nowcoder_leetcode/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/me/fycus/nowcoder_leetcode/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,13 +14,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SubstringWithConcatenationOfAllWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+            <state relative-caret-position="292">
+              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ImplementStrStr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="657" selection-start-line="657" selection-end-line="657" />
+              <folding>
+                <element signature="e#66457#66458#0" expanded="true" />
+                <element signature="e#66495#66496#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -183,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/CountAndSay.java" />
         <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/Test.java" />
         <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SubstringWithConcatenationOfAllWords.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ImplementStrStr.java" />
       </list>
     </option>
   </component>
@@ -193,8 +122,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="40" />
+    <option name="x" value="139" />
+    <option name="y" value="26" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
@@ -207,7 +136,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,10 +148,32 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="fycus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="fycus" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder_leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,9 +199,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubstringWithConcatenationOfAllWords">
+  <component name="RunManager" selected="Application.ImplementStrStr">
     <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.CountAndSay" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplementStrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.ImplementStrStr" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -278,27 +235,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildCardMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.WildCardMatching" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.WildCardMatching" />
       <item itemvalue="Application.MutiplyStrings" />
       <item itemvalue="Application.CountAndSay" />
       <item itemvalue="Application.SubstringWithConcatenationOfAllWords" />
+      <item itemvalue="Application.ImplementStrStr" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImplementStrStr" />
         <item itemvalue="Application.SubstringWithConcatenationOfAllWords" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.CountAndSay" />
         <item itemvalue="Application.MutiplyStrings" />
-        <item itemvalue="Application.WildCardMatching" />
       </list>
     </recent_temporary>
   </component>
@@ -319,31 +269,40 @@
       <workItem from="1546564349542" duration="303000" />
       <workItem from="1546657233810" duration="598000" />
       <workItem from="1546823379606" duration="44000" />
-      <workItem from="1546932913363" duration="7263000" />
+      <workItem from="1546932913363" duration="7374000" />
+      <workItem from="1547014081456" duration="6621000" />
     </task>
+    <task id="LOCAL-00001" summary="SubstringWithConcatenationOfAllWords">
+      <created>1546941632481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546941632481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14037000" />
+    <option name="totallyTimeSpent" value="20769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.41692308" visible="true" weight="0.27685326" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.41692308" visible="true" weight="0.28139183" />
       <window_info id="Structure" order="1" sideWeight="0.5821813" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25557205" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4190193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25260028" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.22734027" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.28380385" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -359,15 +318,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SubstringWithConcatenationOfAllWords" />
+    <option name="LAST_COMMIT_MESSAGE" value="SubstringWithConcatenationOfAllWords" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/production/algorithm/me/fycus/nowcoder_leetcode/DeleteDuplicates.class" />
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTLevelOrderTraversal2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/BTLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -579,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SubstringWithConcatenationOfAllWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        <state relative-caret-position="292">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -591,6 +546,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+          <folding>
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ImplementStrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
