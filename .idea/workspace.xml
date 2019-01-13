@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49200da9-3c72-4beb-9ff6-56fb2ca8c6cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RegularExpressionMatching.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/fycus/codeM2018/Problem1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/fycus/codeM2018/Problem2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/fycus/codeM2018/Problem3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/fycus/codeM2018/Problem4.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,12 +16,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SubstringWithConcatenationOfAllWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
+            <state relative-caret-position="800">
               <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -44,11 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/IntegerToRoman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="11" selection-start-line="4" selection-end-line="36" selection-end-column="30" />
+            <state relative-caret-position="350">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RegularExpressionMatching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -137,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/ImplementStrStr.java" />
         <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RomanToInteger.java" />
         <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/IntegerToRoman.java" />
+        <option value="$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RegularExpressionMatching.java" />
       </list>
     </option>
   </component>
@@ -161,7 +189,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,6 +226,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ImplementStrStr">
+  <component name="RunManager" selected="Application.RegularExpressionMatching">
     <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.CountAndSay" />
       <module name="leetcode" />
@@ -239,8 +267,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutiplyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.MutiplyStrings" />
+    <configuration name="RegularExpressionMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.fycus.nowcoder_leetcode.RegularExpressionMatching" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -262,18 +290,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.MutiplyStrings" />
       <item itemvalue="Application.CountAndSay" />
       <item itemvalue="Application.SubstringWithConcatenationOfAllWords" />
       <item itemvalue="Application.ImplementStrStr" />
+      <item itemvalue="Application.RegularExpressionMatching" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegularExpressionMatching" />
         <item itemvalue="Application.ImplementStrStr" />
         <item itemvalue="Application.SubstringWithConcatenationOfAllWords" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.CountAndSay" />
-        <item itemvalue="Application.MutiplyStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +325,9 @@
       <workItem from="1546932913363" duration="7374000" />
       <workItem from="1547014081456" duration="6826000" />
       <workItem from="1547083310265" duration="2950000" />
-      <workItem from="1547100945642" duration="1603000" />
+      <workItem from="1547100945642" duration="2936000" />
+      <workItem from="1547171036984" duration="598000" />
+      <workItem from="1547348852290" duration="8492000" />
     </task>
     <task id="LOCAL-00001" summary="SubstringWithConcatenationOfAllWords">
       <created>1546941632481</created>
@@ -320,24 +350,31 @@
       <option name="project" value="LOCAL" />
       <updated>1547086318806</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="IntegerToRoman">
+      <created>1547102687625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547102687625</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25527000" />
+    <option name="totallyTimeSpent" value="35950000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.41692308" visible="true" weight="0.290469" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.41692308" visible="true" weight="0.2979744" />
       <window_info id="Structure" order="1" sideWeight="0.5821813" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2511144" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.22734027" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25076142" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17766498" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -352,8 +389,8 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32942432" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,16 +400,10 @@
     <MESSAGE value="SubstringWithConcatenationOfAllWords" />
     <MESSAGE value="ImplementStrStr" />
     <MESSAGE value="RomanToInteger" />
-    <option name="LAST_COMMIT_MESSAGE" value="RomanToInteger" />
+    <MESSAGE value="IntegerToRoman" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntegerToRoman" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/NQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/NQueens2.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/InvocationHandler.java" />
     <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/CombinationSum.java">
@@ -563,7 +594,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/SubstringWithConcatenationOfAllWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
+        <state relative-caret-position="800">
           <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -575,6 +606,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/IntegerToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -596,17 +641,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RomanToInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/RegularExpressionMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/fycus/nowcoder_leetcode/IntegerToRoman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" selection-start-line="4" selection-end-line="36" selection-end-column="30" />
+        <state relative-caret-position="575">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="40" />
         </state>
       </provider>
     </entry>
