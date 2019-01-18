@@ -1,5 +1,11 @@
 package me.fycus.nowcoder_leetcode;
 
+/**
+ * Given a string S, find the longest palindromic substring in S.
+ * You may assume that the maximum length of S is 1000,
+ * and there exists one unique longest palindromic substring.
+ */
+
 public class LongestPanlindromicSubString {
     public static void main(String[] args){
 
@@ -57,7 +63,6 @@ public class LongestPanlindromicSubString {
                 index = i;
             }
         }
-        System.out.println("index: "  + index + "   length: " + max);
         return s.substring((index - max) / 2, (index + max - 2) / 2 + 1);
     }
 
