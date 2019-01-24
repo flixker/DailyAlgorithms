@@ -1,6 +1,8 @@
 package me.fycus.nowcoder_leetcode;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Clone an undirected graph.
@@ -31,13 +33,24 @@ import java.util.ArrayList;
  *          \_/
  */
 public class CloneGraph {
+    private Map<UndirectedGraphNode, UndirectedGraphNode> map = new HashMap<>();
     public UndirectedGraphNode cloneGraph(UndirectedGraphNode node){
-        return null;
+        if(node == null)
+            return null;
+        if(map.containsKey(node))
+            return map.get(node);
+        UndirectedGraphNode newNode = new UndirectedGraphNode(node.label);
+        map.put(node, newNode);
+        for(UndirectedGraphNode n : node.neighbors){
+            newNode.neighbors.add(cloneGraph(n));
+        }
+        return newNode;
     }
+
 }
 
 class UndirectedGraphNode {
     int label;
     ArrayList<UndirectedGraphNode> neighbors;
-    UndirectedGraphNode(int x) { label = x; neighbors = new ArrayList<UndirectedGraphNode>(); }
-};
+    UndirectedGraphNode(int x) { label = x; neighbors = new ArrayList<>(); }
+}
